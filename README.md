@@ -53,6 +53,8 @@ A hierarchy of `.jsbeautifyrc` files is supported, where rc files at the deeper 
 - /home/you/myProject/tests/.jsbeautifyrc
 - /home/you/myProject/tests/test.js  
 
+###- /home/you/myProject/tests/test.js ###
+
 
 
 ## Install
